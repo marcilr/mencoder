@@ -1,0 +1,18 @@
+links.txt
+Created Sun May 28 10:55:36 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+MEncoder related links
+
+
+Links
+=====
+MEncoder is a free command line transcoding tool released under the
+GNU General Public License. It is a sibling of MPlayer, and can convert
+all the formats that MPlayer understands into a variety of compressed
+and uncompressed formats using different codecs.[1]
+[1] MPlayer and MEncoder Status of codecs support, Retrieved on 2009-07-19
+http://www.mplayerhq.hu/DOCS/codecs-status.html
+https://en.wikipedia.org/wiki/MEncoder
+
